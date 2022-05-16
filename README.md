@@ -1,5 +1,5 @@
 ## Music-Player
-* [Der Link von Projekt](https://napolis-pizza-semih.netlify.app/)
+* [Der Link von Projekt](https://semihbeyzade.github.io/music-player/)
 
 ## Willkommen auf den GitHub-Seiten
 
